@@ -1,5 +1,6 @@
 rm -rf stat_mapping.txt
 rm -rf ~/temp/
+mkdir -p ~/temp/
 export TMPDIR=~/temp/
 while read sample;
 do
