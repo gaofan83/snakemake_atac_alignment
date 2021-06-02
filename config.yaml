@@ -1,0 +1,4 @@
+#bowtie index directory
+BOWTIEINDEX: /home/fgao/reference_genome/Drosophila_melanogaster/UCSC/dm6/Sequence/Bowtie2Index/
+THREAD: 16
+TRIM: 50
