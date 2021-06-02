@@ -1,1 +1,1 @@
-# snakemake_atac_alignment
+#### snakemake pipeline for ATAC data alignment
